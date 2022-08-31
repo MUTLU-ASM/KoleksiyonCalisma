@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\bin\Debug\KoleksiyonlarCalisma.exe.config
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\bin\Debug\KoleksiyonlarCalisma.exe
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\bin\Debug\KoleksiyonlarCalisma.pdb
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\obj\Debug\KoleksiyonlarCalisma.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\obj\Debug\KoleksiyonlarCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\obj\Debug\KoleksiyonlarCalisma.exe
+C:\Users\Asım Mutlu\source\repos\KoleksiyonlarCalisma\KoleksiyonlarCalisma\obj\Debug\KoleksiyonlarCalisma.pdb
